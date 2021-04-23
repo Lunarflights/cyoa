@@ -1,0 +1,2 @@
+mkdir assets
+touch assets/.gitkeep
